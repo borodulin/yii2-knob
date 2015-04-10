@@ -1,6 +1,6 @@
 {
     "name": "conquer/knob",
-    "description": "Conquer knob widget",
+    "description": "Yii2 knob widget",
     "keywords": ["yii2", "extension", "widget", "knob"],
     "homepage": "https://github.com/borodulin/yii2-knob",
     "type": "yii2-extension",
