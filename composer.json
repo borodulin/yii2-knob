@@ -5,6 +5,7 @@
     "homepage": "https://github.com/borodulin/yii2-knob",
     "type": "yii2-extension",
     "license": "MIT",
+    "abandoned": true,
     "authors": [
         {
             "name": "Andrey Borodulin",
